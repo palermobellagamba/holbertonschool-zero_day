@@ -1,1 +1,1 @@
-**this is my fisrt project on github holberton school**
+**this is a reposotory on my first project on hithub**
